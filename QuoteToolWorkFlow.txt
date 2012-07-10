@@ -1,0 +1,30 @@
+Work Flow for Quote Tool
+
+1) Department Entries (the departments will not have the same 
+tools list or same types of entries)...
+
+hrs of work
+$ for tools/hr (based on chosen tools from existing tools list)
+$ for tool rental (based on choices from tool rental list)
+Travel time hrs
+Air fare
+Car rentals
+hotels
+per diem
+# of employees
+# of days
+
+2) Calculations performed based on input
+Baseline $ quote based on hours
+Equipment cost total (for equipment owned and used for the project)
+Equipment cost for tool rentals
+Multipliers for baseline numbers for gross profit
+Multipliers for equipment cost for gross profit
+
+3) All departments added up
+Basline with gross margins
+Equipment with gross margins with rentals added in
+
+*Each department will enter in their numbers separately.  Not all departments
+will participate.  Sometimes only one department has work on a particular
+project.
